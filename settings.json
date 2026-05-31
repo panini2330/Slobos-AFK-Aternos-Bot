@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "LISADOX.aternos.me",
+    "port": 57181,
     "version": "",
     "try-creative": false
   },
